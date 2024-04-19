@@ -33,7 +33,7 @@ const RootLayout = () => {
   return (
     <Stack>
       <Stack.Screen
-        name="index"
+        name="(tabs)"
         options={{
           headerShown: false,
         }}
